@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/e586ae7d1084444f979d66d859eac92e/artifacts
+end_time: 1744043200205
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: e586ae7d1084444f979d66d859eac92e
+run_name: illustrious-hawk-204
+run_uuid: e586ae7d1084444f979d66d859eac92e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744043190434
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/151074115243957001/3c25eded2cd2458396faa220f62b49af/artifacts
+end_time: 1744043274757
+entry_point_name: ''
+experiment_id: '151074115243957001'
+lifecycle_stage: active
+run_id: 3c25eded2cd2458396faa220f62b49af
+run_name: sedate-bass-865
+run_uuid: 3c25eded2cd2458396faa220f62b49af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744043269326
+status: 3
+tags: []
+user_id: root
